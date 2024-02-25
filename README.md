@@ -8,11 +8,11 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo capaz de iden
 ## Acciones para el modelo
 
 ### Preprocesamiento de Datos
-    Carga los datos, convierte los diagnósticos en variables binarias, y divide los datos en conjuntos de entrenamiento y prueba.
+Carga los datos, convierte los diagnósticos en variables binarias, y divide los datos en conjuntos de entrenamiento y prueba.
 ### Normalización
-    Escala las características para tener una media de 0 y una varianza de 1.
+Escala las características para tener una media de 0 y una varianza de 1.
 ### Entrenamiento y Evaluación de Modelos
-    Entrena los modelos de Regresión Logística, Random Forest, y Gradient Boosting Classifier con el conjunto de entrenamiento balanceado y evalúa su rendimiento en el conjunto de prueba. Calcula y muestra la precisión, la tasa de error, la matriz de confusión y el reporte de clasificación para cada modelo.
+Entrena los modelos de Regresión Logística, Random Forest, y Gradient Boosting Classifier con el conjunto de entrenamiento balanceado y evalúa su rendimiento en el conjunto de prueba. Calcula y muestra la precisión, la tasa de error, la matriz de confusión y el reporte de clasificación para cada modelo.
 
 
 ## Justificación de los Modelos
